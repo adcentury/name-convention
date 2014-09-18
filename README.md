@@ -4,7 +4,7 @@
 - [概述](#user-content-%E6%A6%82%E8%BF%B0)
 - [说明](#user-content-%E8%AF%B4%E6%98%8E)
 - [HTML](#user-content-html)
-- [class属性](#user-content-class%E5%B1%9E%E6%80%A7)
+	- [class属性](#user-content-class%E5%B1%9E%E6%80%A7)
 	- [id属性](#user-content-id%E5%B1%9E%E6%80%A7)
 	- [data属性（自定义属性）](#user-content-data%E5%B1%9E%E6%80%A7%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7)
 - [Javascript](#user-content-javascript)
